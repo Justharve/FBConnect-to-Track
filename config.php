@@ -6,7 +6,7 @@
  */
 
 // add your facebook credentials here
-define('FACEBOOK_KEY', 'xxxxxxxxxxxxxxxxxxxxxx');
+define('FACEBOOK_APPID', 'xxxxxxxxxxxxxxxxxxxxxx');
 define('FACEBOOK_SECRET', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 define('FACEBOOK_FANPAGE_NAME', 'CASH Music');
 define('FACEBOOK_FANPAGE_ID', '120327795611'); // click "edit this page" and see the id in the URL
